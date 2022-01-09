@@ -1,0 +1,23 @@
+{
+    "name": "ramil/mrz",
+    "description": "mrz parser <azerioid@gmail.com>",
+    "version": "0.0.1",
+    "type": "library",
+    "keywords": ["laravel", "mrz", "parser"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ramil\\mrz\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramil huseynov",
+            "email": "azerioid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.0"
+    }
+}
