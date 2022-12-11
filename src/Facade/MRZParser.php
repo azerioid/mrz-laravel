@@ -1,6 +1,6 @@
 <?php
 
-namespace ramil\mrz\Facade;
+namespace azerioid\mrz\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
