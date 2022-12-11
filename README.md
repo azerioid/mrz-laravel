@@ -7,7 +7,7 @@ https://github.com/bbeycanov/mrz-parser
 ``` composer require azerioid/mrz ```
 
 # call library
-```use Azerioid\mrz\MRZParser;```
+```use azerioid\mrz\MRZParser;```
 
 
 #example
