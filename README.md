@@ -4,10 +4,10 @@
 #forked from 
 https://github.com/bbeycanov/mrz-parser
 
-``` composer require ramil/mrz ```
+``` composer require azerioid/mrz ```
 
 # call library
-```use ramil\mrz\MRZParser;```
+```use Azerioid\mrz\MRZParser;```
 
 
 #example
