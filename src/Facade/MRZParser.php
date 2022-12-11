@@ -18,6 +18,6 @@ class MRZParser extends Facade
 {
     protected static function getFacadeAccessor(): string
     {
-        return \Azerioid\mrz\MRZParser::class;
+        return \azerioid\mrz\MRZParser::class;
     }
 }
