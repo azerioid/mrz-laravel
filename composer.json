@@ -1,5 +1,5 @@
 {
-    "name": "Azerioid/mrz",
+    "name": "azerioid/mrz",
     "description": "mrz parser <azerioid@gmail.com>",
     "version": "0.0.1",
     "type": "library",
@@ -7,7 +7,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Azerioid\\mrz\\": "src"
+            "azerioid\\mrz\\": "src"
         }
     },
     "authors": [
