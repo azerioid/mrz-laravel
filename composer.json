@@ -1,13 +1,13 @@
 {
-    "name": "azerioid/mrz",
-    "description": "mrz parser <azerioid@gmail.com>",
+    "name": "AZERIOID/MRZ",
+    "description": "MRZ parser <azerioid@gmail.com>",
     "version": "0.0.1",
     "type": "library",
     "keywords": ["laravel", "mrz", "parser"],
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "azerioid\\mrz\\": "src"
+            "AZERIOID\\MRZ\\": "src"
         }
     },
     "authors": [
