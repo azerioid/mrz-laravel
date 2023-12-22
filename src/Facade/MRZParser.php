@@ -1,6 +1,6 @@
 <?php
 
-namespace azerioid\mrz\Facade;
+namespace AZERIOID\MRZ\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
@@ -18,6 +18,6 @@ class MRZParser extends Facade
 {
     protected static function getFacadeAccessor(): string
     {
-        return \azerioid\mrz\MRZParser::class;
+        return \AZERIOID\MRZ\MRZParser::class;
     }
 }
